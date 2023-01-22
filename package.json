@@ -4,6 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "start": "node build/app.js",
+    "build" : "npx typescript",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
